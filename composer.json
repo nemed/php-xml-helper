@@ -1,0 +1,18 @@
+{
+    "name": "turkevich/xml-formatter",
+    "description": "XML Formatter",
+    "keywords": [
+        "xml",
+        "xml formatter"
+    ],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Cyril Turkevich",
+            "email": "cyril.turkevich@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"ctur\\": ""}
+    }
+}
